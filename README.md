@@ -1,3 +1,4 @@
+![neskuik-k-github-contributions](https://github.com/user-attachments/assets/a0d0967a-8ab0-4792-82ff-31c69566c5f1)
 
       <svg width="1200" height="180" viewBox="-50 0 1200 180" style="background-color: #0a0a0a; width: 100%; height: 100%;"
         xmlns="http://www.w3.org/2000/svg">
